@@ -1,0 +1,9 @@
+4f9795751677a320cf78f81fa97af0a8 *DESCRIPTION
+9f72e9712991b07190d45e9eba0f750d *NAMESPACE
+c48a99341244d6c6b1acb2b099a6c184 *R/FDSNGet.R
+06b0c68e07bbd181a933a6f5da79494a *R/FDSNParameters.R
+ba4435bb7ea98cba24e6de7f1fc9ed2a *man/FDSNGetEvents.Rd
+bbc8a431fd1d43cdffba160fbf74b011 *man/FDSNGetNetworks.Rd
+ea4d3f8805f074832be280eedbb057f6 *man/FDSNGetTimeSeries.Rd
+c5679fcf21937b25119848416ec9dd19 *man/FDSNParametersList.Rd
+79c4dcfe4240696e1fe6de79fdf6ddec *man/rFDSN-package.Rd
